@@ -7,5 +7,6 @@ public class SumOfNumbers {
       sum = sum + i;
     }
     return sum;
+    
   }
 }
